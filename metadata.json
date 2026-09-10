@@ -1,0 +1,10 @@
+{
+  "name": "Remix LEWS Sentinel — AI Landslide Early Warning System",
+  "description": "Tactical 3D GIS command center and multi-modal AI predictive risk engine for geotechnical landslide monitoring, live location tracking, and emergency CAP dispatch.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
